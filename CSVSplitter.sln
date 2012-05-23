@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 11
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVSplitter", "GlemnetCSVSplitter\CSVSplitter.csproj", "{F22A98F4-011E-414B-97FA-5D3F18EFF848}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F22A98F4-011E-414B-97FA-5D3F18EFF848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F22A98F4-011E-414B-97FA-5D3F18EFF848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F22A98F4-011E-414B-97FA-5D3F18EFF848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F22A98F4-011E-414B-97FA-5D3F18EFF848}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
